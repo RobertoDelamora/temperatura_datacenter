@@ -8,9 +8,9 @@
 #### Descrição do processo:
 • Dados originais coletados através de sensores instalados nas salas de servidor, conectados à rede e gerenciados por central de monitoramento usando Zabbix;
 
-• Preparação e transformação dos dados (ETL) em banco externo para uso nas análises;;
+• Preparação e transformação dos dados (ETL) em banco MS-SQL externo para uso nas análises;
 
-• Análise estatística e descritiva dos dados e apresentação de gráficos de comportamento;
+• Análise estatística descritiva dos dados e apresentação de gráficos de comportamento;
 
 
 #### Objetivo:
