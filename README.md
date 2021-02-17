@@ -20,10 +20,11 @@ Prover informações sobre o comportamento da temperatura interna ao longo do te
 
 #### Próximos passos:
 
-Desenvolver modelos utilizando as séries temporais para mapear e predizer comportamentos não desejados, antecipando ações de manutenção e evitando assim, a parada total ou p-artical da sala.
+Desenvolver modelos utilizando as séries temporais para mapear e predizer comportamentos não desejados, antecipando ações de manutenção e evitando assim, a parada total ou parcial da sala.
 
 
 
+.
 
 **Importante:** Os dados apresentados foram anonimizados por questões de segurança e privacidade.
 
